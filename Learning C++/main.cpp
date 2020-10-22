@@ -7,8 +7,10 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+int main() {
+    // Basic output
+    std::cout << 1;
+    std::cout << "\n";
+    std::cout << "Second line\n";
     return 0;
 }
