@@ -9,4 +9,10 @@ import Foundation
 
 func general_learning() {
   print("test")
+  
+  var test_array = [Int]()
+  test_array.append(123)
+  
+  print(test_array)
+  
 }

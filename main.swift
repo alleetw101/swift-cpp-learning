@@ -8,5 +8,8 @@
 import Foundation
 
 print("Hello, World!")
-general_learning()
+// general_learning()
 
+var test_array = [1.2, 4.5, 6.2, 2.4, 8.3, 2.4, 4.3]
+
+print(quicksort(array: test_array))
