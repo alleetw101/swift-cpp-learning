@@ -4,7 +4,7 @@ Author: Alan Lee <alleetw101@gmail.com>
 
 ## Description
 
-A repository containing C++ and Swift learning files.
+A repository containing C++ and Swift files for learning purposes.
 
 ## Purpose
 
