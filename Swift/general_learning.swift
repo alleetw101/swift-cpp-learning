@@ -14,5 +14,7 @@ func general_learning() {
   test_array.append(123)
   
   print(test_array)
-  
+  for number in (1 + 1)...3 {
+    print(number)
+  }
 }
