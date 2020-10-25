@@ -1,11 +1,18 @@
 #  Algorithms
 
-#### Format
+## Description
+
+### Implementation
+
+Algorithms will be implemented in Swift and C++.
+
+### Format
 
 Each algorithm will include:
 - Text description
   - Description
   - Time complexities
+  - Space complexities
   - Use cases
 - Code implementation
 

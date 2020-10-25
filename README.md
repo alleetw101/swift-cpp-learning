@@ -1,14 +1,14 @@
-#  Learning CPP
+#  Swift and C++ Learning
 Author: Alan Lee <alleetw101@gmail.com>  
 *Last updated: 2020.10*
 
 ## Description
 
-A repository containing cpp learning files.
+A repository containing C++ and Swift learning files.
 
 ## Purpose
 
-Learn c++.
+Learn C++ and Swift.
 
 ## Specifications
 ### Development
@@ -20,4 +20,3 @@ Macbook Pro (15-inch, 2017)
 - OS: macOS 10.15 (Catalina)
 
 Xcode
-
