@@ -1,6 +1,6 @@
 //
 //  array_sorting_algorithms.swift
-//  Learning
+//  Swift Target
 //
 //  Created by Alan Lee on 10/24/20.
 //

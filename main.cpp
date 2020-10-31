@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Learning C++
+//  C++ Target
 //
 //  Created by Alan Lee on 10/21/20.
 //
