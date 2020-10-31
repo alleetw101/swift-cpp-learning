@@ -18,13 +18,12 @@ Each algorithm will include:
 
 ## Complete
 
-
+- Quicksort (Swift)
 
 ## To-Do
 
 ### Array Sorting Algorithms
 
-- Quicksort
 - Mergesort
 - Timsort
 - Heapsort
@@ -40,6 +39,10 @@ Each algorithm will include:
 
 ### Pathfinding Algorithms
 
+Will accept a 2d array of shape (width, height) where 0 is empty space and 1 is an obstacle
+
+- Lee's Algorithm
+  - Unable to find a named method implemented online
 - Breadth First Search
 - Depth First Search
 - Dijkstra
